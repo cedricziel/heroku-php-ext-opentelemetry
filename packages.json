@@ -1,6 +1,6 @@
 {
   "packages": {
-    "ext-opentelemetry": [
+    "heroku-sys/ext-opentelemetry": [
       {
         "name": "heroku-sys/ext-opentelemetry",
         "version": "1.0.1",
@@ -14,7 +14,7 @@
           "type": "heroku-sys-tar",
           "url": "https://cedricziel.github.io/heroku-php-ext-opentelemetry/opentelemetry-1.0.1.tar.gz"
         },
-        "time": "2023-02-11 16:16:00"
+        "time": "2023-02-11 16:36:00"
       }
     ]
   }
